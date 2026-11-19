@@ -8,6 +8,7 @@ dist/
 *.tsbuildinfo
 coverage/
 .nyc_output/
+.data/
 
 # macOS system files
 .DS_Store
